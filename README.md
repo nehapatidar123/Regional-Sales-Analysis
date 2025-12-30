@@ -32,12 +32,15 @@ Excel – Pivot tables and summary analysis
 Power BI – Interactive dashboard and data visualization
 
 ## 📂 Project Structure
+```
 Regional-Sales-Analysis/
 │
 ├── Regional Sales Dataset.xlsx        # Raw dataset
 ├── regional-sales-analysis.ipynb      # Python data cleaning & EDA
 ├── regional sales dashboard.pbix      # Power BI dashboard
 ├── README.md                          # Project documentation
+```
+
 
 ## 🔍 Data Cleaning & Preparation
 
