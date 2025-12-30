@@ -91,6 +91,10 @@ Performed using Python:
 
 * Interactive slicers for Region and Channel
 
+### 📷 Excel Dashboard Preview
+![Excel Dashboard](dashboard_preview.png)
+
+
 ## 📌 Key Insights
 
 * A few regions contribute a major portion of total sales
