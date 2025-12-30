@@ -9,7 +9,8 @@ The goal is to transform raw data into actionable business insights through data
 
 ## 🎯 Business Problem
 
-Businesses need to:
+Sales leaders and business stakeholders need to understand how different regions and sales channels
+contribute to overall revenue and profitability in order to make better strategic decisions.
 
 This project helps answer:
 
@@ -113,7 +114,7 @@ Performed using Python:
 
 ## 💼 Internship Relevance and Conclusion
 
-* This project demonstrates:
+ This project demonstrates:
 
 * End-to-end data analysis workflow
 
@@ -124,3 +125,7 @@ Performed using Python:
 * Dashboard design and storytelling with Power BI
 
 * Clear documentation and project presentation
+
+Overall, this project demonstrates how data analysis and dashboards can support strategic business decisions
+by identifying performance gaps and growth opportunities.
+
